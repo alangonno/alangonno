@@ -1,6 +1,6 @@
 # Olá! Sou o Alan Gonçalves 👋
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Sistemas+de+Informação;Desenvolvedor+Back-end+Java;Apaixonado+por+resolver+problemas+com+código&center=true&width=800&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Sistemas+de+Informação;Desenvolvedor+FullStack;Apaixonado+por+resolver+problemas+com+código&center=true&width=800&height=45"></a>
 
 
 Sou um desenvolvedor de software em formação, estudante de **Sistemas de Informação na UGB-FERP**. Tenho um perfil autodidata e sou focado em construir uma carreira sólida, criando soluções eficientes e escaláveis.
