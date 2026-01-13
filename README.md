@@ -1,70 +1,49 @@
-# Olá! Sou o Alan Gonçalves 👋
+# Alan Gonçalves 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Sistemas+de+Informação;Desenvolvedor+FullStack;&center=true&width=800&height=45"></a>
+### Desenvolvedor de Software
 
+Sou um desenvolvedor focado em **engenharia de software aplicada a negócios**. Utilizo a tecnologia para eliminar ineficiências operacionais e digitalizar processos manuais.
 
-Sou um desenvolvedor de software em formação, estudante de **Sistemas de Informação na UGB-FERP**. Tenho um perfil autodidata e sou focado em construir uma carreira sólida, criando soluções eficientes e escaláveis.
+Atualmente cursando **Sistemas de Informação na UGB-FERP** e atuando como freelancer, onde já entreguei soluções completas (do levantamento de requisitos ao deploy).
 
-Atualmente, atuo como freelancer e desenvolvo projetos próprios, buscando sempre aplicar meu conhecimento para resolver problemas reais.
-
-- 🔭 Atualmente estou aprofundando meus estudos no **ecossistema Spring**.
-- 🌱 Buscando uma **oportunidade de estágio** em desenvolvimento de software.
-- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/alangonno/)**
+- 🔭 **Foco Atual:** Aprofundamento em Arquitetura e expansão para o ecossistema **.NET (C#)**.
+- 🏆 **Destaque:** Selecionado para o **Projeto UFFly** (Parceria da UGB + UFF).
+- 💼 **Disponível para:** Oportunidades como Desenvolvedor Júnior ou Estagiario.
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/alangonno/) | alannogueira314@gmail.com
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 🛠️ Tecnológias
 
-Minha stack principal é focada no ecossistema Java, mas também tenho experiência com outras tecnologias essenciais para o desenvolvimento full-stack.
+Minha base é sólida em **Java e Orientação a Objetos**, com capacidade de transitar entre diferentes stacks conforme a necessidade do projeto.
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
 </p>
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Freelances
 
-**Sistema de Ponto de Venda (PDV) e Gestão de Estoque** `(Full-Stack)`
+#### 🏥 **Sistema de Gestão de Clínicas**
+> *Ciclo completo: Levantamento de requisitos, Modelagem, Desenvolvimento e Deploy.*
 
-Desenvolvi do zero uma aplicação web completa para automatizar os processos de vendas e estoque de uma empresa local, substituindo um sistema manual e ineficiente.
+* **O Impacto:** Eliminei falhas operacionais críticas (perda de prontuários) e centralizei o agendamento da clínica.
+* **A Engenharia:** Arquitetura escalável com **Spring Boot**, **React** e **PostgreSQL**, garantindo segurança de dados sensíveis via **JWT** e regras de negócio complexas.
 
-- **O Desafio:** A empresa sofria com imprecisão de dados e lentidão na geração de relatórios.
-- **A Solução:** Construí uma aplicação com **Java 21 (Servlets e JDBC)** no back-end, **PostgreSQL** como banco de dados e **React** no front-end. A arquitetura foi 100% containerizada com **Docker** para deploy na nuvem.
-- **Resultados:** A solução proporcionou controle de dados em tempo real, economia de dias de trabalho para a equipe e, pela primeira vez, insights valiosos para a tomada de decisões.
+#### 🛒 **PDV & Gestão de Estoque** `Freelance`
+> *Foco: Performance e Fundamentos de Engenharia.*
 
-[Clique aqui para ver o repositório do projeto](https://github.com/alangonno/Achei-Acai) 
-
----
-
-<p align="center">
-  <a href="https://github.com/alangonno>">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alangonno&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
+* **O Impacto:** Reduzi o tempo de consolidação de relatórios de **dias para instantaneo**, substituindo planilhas manuais.
+* **A Engenharia:** Para garantir domínio total dos fundamentos, construí o backend utilizando **Java 21 Puro (Servlets/JDBC)** e arquitetura MVC, integrando com front-end React.
+* [🔗 Ver Repositório](https://github.com/alangonno/Achei-Acai)
