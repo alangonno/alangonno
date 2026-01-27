@@ -2,11 +2,8 @@
 
 ### Desenvolvedor de Software
 
-Sou um desenvolvedor focado em **engenharia de software aplicada a negócios**. Utilizo a tecnologia para eliminar ineficiências operacionais e digitalizar processos manuais.
-
 Atualmente cursando **Sistemas de Informação na UGB-FERP** e atuando como freelancer, onde já entreguei soluções completas (do levantamento de requisitos ao deploy).
 
-- 🔭 **Foco Atual:** Aprofundamento em Arquitetura e expansão para o ecossistema **.NET (C#)**.
 - 🏆 **Destaque:** Selecionado para o **Projeto UFFly** (Parceria da UGB + UFF).
 - 💼 **Disponível para:** Oportunidades como Desenvolvedor Júnior ou Estagiario.
 - 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/alangonno/) | alannogueira314@gmail.com
@@ -46,4 +43,3 @@ Minha base é sólida em **Java e Orientação a Objetos**, com capacidade de tr
 
 * **O Impacto:** Reduzi o tempo de consolidação de relatórios de **dias para instantaneo**, substituindo planilhas manuais.
 * **A Engenharia:** Para garantir domínio total dos fundamentos, construí o backend utilizando **Java 21 Puro (Servlets/JDBC)** e arquitetura MVC, integrando com front-end React.
-* [🔗 Ver Repositório](https://github.com/alangonno/Achei-Acai)
