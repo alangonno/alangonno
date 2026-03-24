@@ -32,7 +32,7 @@ Minha base é sólida em **Java e Orientação a Objetos**, com capacidade de tr
 
 ### 🚀 Freelances
 
-#### 🏥 **Sistema de Gestão de Clínicas**
+#### 🏥 **Sistema de Gestão de Clínicas** `Freelance`
 > *Ciclo completo: Levantamento de requisitos, Modelagem, Desenvolvimento e Deploy.*
 
 * **O Impacto:** Eliminei falhas operacionais críticas (perda de prontuários) e centralizei o agendamento da clínica.
